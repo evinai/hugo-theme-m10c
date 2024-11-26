@@ -2,3 +2,17 @@
   [module.hugoVersion]
     extended = true
     min = "0.128.0"
+    
+[params]
+  author = "Togay Tunca"
+  description = "A blog about all things technical."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/evinai"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/evinai"
